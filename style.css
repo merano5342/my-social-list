@@ -1,0 +1,32 @@
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+
+
+
+.fa-solid {
+  margin-right: 4px;
+  color: #a9a9a9;
+}
+
+/* for genderIcon */
+#male-icon {
+  color: #2264ff;
+}
+
+#female-icon {
+  color: #ff7bb1;
+}
+
+.user-info {
+  margin-top: 50px;
+}
+
+.fa-heart {
+  color: #ff8484;
+}
